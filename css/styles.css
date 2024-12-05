@@ -12,6 +12,7 @@ body {
     width: 100%;
     height: 1080px;
     background-color: #FAFAFA;
+    
 
 }
 
@@ -68,6 +69,7 @@ header {
     border-radius: 8px;
     border: 1px solid #AC00FF;
     background: #E9D7FE;
+    cursor: pointer;
 }
 
 #hedaer-title {
@@ -122,6 +124,7 @@ header {
     font-style: normal;
     font-weight: 500;
     line-height: normal;
+    
 
 }
 
@@ -131,6 +134,7 @@ header {
     gap: 12px;
     background: none;
     border: none;
+     
 }
 
 #video-btn a {
@@ -155,5 +159,6 @@ header {
     justify-content: flex-end;
     align-items: center;
     margin-top: -5%;
-    margin-left: 10%;
+    margin-left: 10.5%;
+    
 }
